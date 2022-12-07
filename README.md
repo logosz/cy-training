@@ -1,0 +1,2 @@
+# cy-training
+cypress local 
